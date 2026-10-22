@@ -66,7 +66,7 @@ If you like this plugin, please help spread the word.  Rate the plugin.  Write a
 
 Development happens on GitHub.
 
-You are welcome to help us out and <a href="https://github.com/ronalfy/reorder-terms">contribute on GitHub</a>.
+You are welcome to help us out and <a href="https://mattc.link/reorder-terms-github">contribute on GitHub</a>.
 
 
 == Installation ==
@@ -81,7 +81,7 @@ This plugin requires <a href="https://wordpress.org/plugins/metronet-reorder-pos
 Please note that this plugin <strong>does not</strong> change the order of items in the front-end.  This functionality is <strong>not</strong> core WordPress functionality, so it'll require some work on your end to get the posts to display in your theme correctly.
 
 
-<a href="https://github.com/ronalfy/reorder-terms#usage">See usage for some examples.</a>
+<a href="https://mattc.link/reorder-terms-usage">See usage for some examples.</a>
 
 == Frequently Asked Questions ==
 
